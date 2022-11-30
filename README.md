@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-  - I'm a Full Stack Developer from Brazil 
+  - I'm a Frontend Developer from Brazil 
   - I've never written commercial code
   - Still learning backend stuff
 
