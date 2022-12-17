@@ -1,7 +1,7 @@
 <h1 align="center" >Hi there 👋</h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e9/76/32/e97632ec437ea45fcde27d1f85b32fbc.png" width="500" height="400"/>
+  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5879568-web-designer-modern-flat-concept-for-web-banner-design-man-working-with-website-layout-places-images-and-other-graphic-elements-optimized-page-code-vector-illustration-cena-com-pessoas-isoladas-vetor.jpg" width="600" height="400"/>
 </div>
 
 ### 👨‍💻 About me:
