@@ -7,7 +7,7 @@
 ### 👨‍💻 About me:
 
   - I'm a Frontend Developer from Brazil 
-  - I've never written commercial code
+  - No professional experience
   - Like to learn new things
 
 ### 🔮 Languages and Tools
