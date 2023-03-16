@@ -1,8 +1,4 @@
-<h1 align="center" >Hi there 👋</h1>
-
-<div align="center">
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5879568-web-designer-modern-flat-concept-for-web-banner-design-man-working-with-website-layout-places-images-and-other-graphic-elements-optimized-page-code-vector-illustration-cena-com-pessoas-isoladas-vetor.jpg" width="600" height="400"/>
-</div>
+<h1>Hello there 👋</h1>
 
 ### 👨‍💻 About me:
 
@@ -19,15 +15,13 @@
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="32" />
   <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" width="32" />
-  <!-- <img src="https://nodejs.org/static/images/logo.svg" width="32" /> -->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="32" />
-  <!-- <img src="https://i.pinimg.com/originals/b7/4c/8b/b74c8b10b1d8942475db5a5ebdf53555.png" width="88" /> -->
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni"/>
+</div>
 
 
 
