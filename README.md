@@ -6,8 +6,7 @@
 
 ### 👨‍💻 About me:
 
-  - I'm a Frontend Developer from Brazil 
-  - No professional experience
+  - I'm a Frontend Developer
   - Like to learn new things
 
 ### 🔮 Languages and Tools
@@ -25,9 +24,13 @@
   <!-- <img src="https://i.pinimg.com/originals/b7/4c/8b/b74c8b10b1d8942475db5a5ebdf53555.png" width="88" /> -->
 </div>
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **EmanuelMarquis/EmanuelMarquis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
