@@ -1,11 +1,8 @@
-<h1>Hello there 👋</h1>
-
-### 👨‍💻 About me:
-
-  - I'm a Frontend Developer
-  - Like to learn new things
+# Hello there 👋
+I'm a curious Frontend Developer.
 
 ### 🔮 Languages and Tools
+
 <div>
 <a href="https://skillicons.dev"/>
 <img src="https://skillicons.dev/icons?i=html,js,css,dart,python,react,flutter,tailwind,firebase,git,vscode,figma"/>
