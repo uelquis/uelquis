@@ -1,13 +1,14 @@
 # Hello there 👋
 I'm a curious Frontend Developer.
 
-### 🔮 Languages and Tools
+### 🔮 My Skill Set:
 
 <div>
-<a href="https://skillicons.dev"/>
-<img src="https://skillicons.dev/icons?i=html,js,css,dart,python,react,flutter,tailwind,firebase,git,vscode,figma"/>
+  <a href="https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=html,js,css,dart,python,react,flutter,tailwind,firebase,git,vscode,figma"/>
 </div>
-
+<br/>
+<br/>
 <div>
 <a href="https://github.com/emanuelmarquis"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni"/>
