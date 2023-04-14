@@ -5,7 +5,11 @@ I'm a curious Frontend Developer.
 
 <div>
   <a href="https://skillicons.dev"/>
-  <img src="https://skillicons.dev/icons?i=html,js,css,dart,python,react,flutter,tailwind,firebase,git,vscode,figma"/>
+  <span>
+    <img src="https://skillicons.dev/icons?i=html,js,css,dart,python"/>
+    <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,firebase,git"/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma"/>
+  </span>
 </div>
 <br/>
 <br/>
