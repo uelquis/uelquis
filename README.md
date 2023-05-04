@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm a curious Frontend Developer.
+I'm a curious Developer.
 
 ### 🔮 My Skill Set:
 
