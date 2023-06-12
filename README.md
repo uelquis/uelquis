@@ -15,7 +15,7 @@ I'm a curious Developer.
 <br/>
 <div>
 <a href="https://github.com/emanuelmarquis"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni&rank_icon=github"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni&langs_count=5"/>
 </div>
 
