@@ -3,7 +3,6 @@
 </head>
 
 <h1>Hello There !!</h1>
-<hr>
 
 ### 💫 About Me
 - 19 yo
