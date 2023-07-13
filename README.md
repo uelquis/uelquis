@@ -57,7 +57,6 @@
 ### 🤙 You can find me on
 *click to be redirectioned*
 <div id="socials">
-  <a href="https://dribbble.com/uelquis"><img src="./res/dribbble.svg" width="60px"/></a>
   <a href="https://www.upwork.com/freelancers/~01f1f01a305d025a88"><img src="./res/upwork.svg"  width="68px"/></a>
   <a id="fiverr" href="https://www.fiverr.com/emanuelmarquis?up_rollout=true"><img src="./res/fiverr.svg"  width="68"/></a>
 </div>
