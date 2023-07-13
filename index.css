@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans");
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap');
+
+body {
+    font-family: "Work Sans";
+}
+
+h1 {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+}
+
+hr {
+    border-top: 4px solid;
+    border-bottom: 0;
+    margin: 0.6rem 0 1rem 0
+}
+
+details {
+    margin: 1rem 0 1rem 2rem;
+}
+
+details span {
+    display: block;
+    margin: 1rem 0 0 2rem;
+}
+
+#socials {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.2rem;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+
+#fiverr {
+    margin-top: -2rem;
+}
+
+div img {
+    margin-right: 1rem;
+}
