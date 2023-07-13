@@ -27,8 +27,6 @@ details span {
 }
 
 #socials {
-    display: flex;
-    gap: 2rem;
     margin-top: 1.2rem;
     margin-left: 2rem;
     margin-bottom: 2rem;
