@@ -26,10 +26,18 @@ details span {
     margin: 1rem 0 0 2rem;
 }
 
+a {
+    display: block;
+}
+
+#fiverr {
+    margin-top: -2rem;
+}
+
 #socials {
-    margin-top: 1.2rem;
+    display: flex;
+    gap: 2rem;
     margin-left: 2rem;
-    margin-bottom: 2rem;
 }
 
 div img {
