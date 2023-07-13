@@ -30,16 +30,6 @@ a {
     display: block;
 }
 
-#fiverr {
-    margin-top: -2rem;
-}
-
-#socials {
-    display: flex;
-    gap: 2rem;
-    margin-left: 2rem;
-}
-
 div img {
     margin-right: 1rem;
 }
