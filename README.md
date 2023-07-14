@@ -7,6 +7,7 @@
 ### 💫 About Me
 - 19 yo
 - FullStack Dev
+- Studying docker 🐋
 - Loves hitting the Gym 💪
 - I'm a curious developer, always on the move learning something new 😸
 
@@ -49,7 +50,6 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge">&nbsp;
     <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge">&nbsp;
     <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge">&nbsp;
     <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge">&nbsp;
   </span>
 </details>
