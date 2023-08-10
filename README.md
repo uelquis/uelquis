@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge">&nbsp;
     <img src="https://img.shields.io/badge/node-%23339933.svg?style=for-the-badge">&nbsp;
     <img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge">
   </span>
 </details>
 
