@@ -53,14 +53,6 @@
   </span>
 </details>
 
-### 🤙 You can find me on
-*click to be redirectioned*
-<div id="socials">
-  <a href="https://www.upwork.com/freelancers/~01f1f01a305d025a88"><img src="./res/upwork.svg"  width="68px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a id="fiverr" href="https://www.fiverr.com/emanuelmarquis?up_rollout=true"><img src="./res/fiverr.svg"  width="68"/></a>
-</div>
-
-
 <div>
   <a href="https://github.com/emanuelmarquis"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni&rank_icon=github"/>&nbsp;&nbsp;
