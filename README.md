@@ -56,5 +56,5 @@
 <div>
   <a href="https://github.com/emanuelmarquis"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni&rank_icon=github"/>&nbsp;&nbsp;
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni&langs_count=5"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni&langs_count=5&hide=makefile,vue"/>
 </div>
