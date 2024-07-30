@@ -41,21 +41,5 @@
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge">
   </span>
 </details>
-
-<details>
-  <summary>Other</summary><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>
-    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge">&nbsp;
-    <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge">&nbsp;
-  </span>
-</details>
-
-<div>
-  <a href="https://github.com/emanuelmarquis"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emanuelmarquis&show_icons=true&theme=omni&rank_icon=github"/>&nbsp;&nbsp;
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmarquis&layout=compact&show_icons=true&theme=omni&langs_count=5&hide=makefile,vue"/>
 </div>
-<a href="https://www.buymeacoffee.com/emanuelmarquis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/uelquiswastaken" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
