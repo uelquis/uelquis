@@ -2,5 +2,3 @@
 Computer Science student. 
 ## Connect
 [LinkedIn](https://linkedin.com/in/uelquis) · [Twitter](https://x.com/uelquis) · [Lattes](https://lattes.cnpq.br/4720001620635929)
-## Get in touch
-[Whatsapp](https://wa.me/qr/5MXOPDU62GZSH1)
